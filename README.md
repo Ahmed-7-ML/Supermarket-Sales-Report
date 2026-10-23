@@ -10,4 +10,4 @@ Year / Month / Quarter slicers, and 7 visuals (donut, pie, column, bar, line, an
   4. Female customers contribute more sales than male
   5. January peaked at $116.3K and February dipped to $97.2K.
 ---
-![image](s1.png)
+![image](s1.PNG)
